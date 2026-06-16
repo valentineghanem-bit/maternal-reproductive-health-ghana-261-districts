@@ -1,33 +1,34 @@
-# Git LFS tracking for large binary files (TECH-004 prevention — prevents binary bloat)
-# Install Git LFS: https://git-lfs.github.com/
+# Line endings — normalise across OS
+*.py   text eol=lf
+*.R    text eol=lf
+*.md   text eol=lf
+*.yml  text eol=lf
+*.txt  text eol=lf
+*.csv  text eol=lf
+*.cff  text eol=lf
+*.html text eol=lf
 
-# Figures and maps
-*.png filter=lfs diff=lfs merge=lfs -text
-*.svg filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
-
-# GeoJSON source files (can be large)
+# Large binaries via Git LFS (not raw-linked; keeps the repo lean)
+*.png     filter=lfs diff=lfs merge=lfs -text
+*.svg     filter=lfs diff=lfs merge=lfs -text
+*.pdf     filter=lfs diff=lfs merge=lfs -text
 *.geojson filter=lfs diff=lfs merge=lfs -text
-
-# Large CSVs (master dataset if >50 MB)
 master_*.csv filter=lfs diff=lfs merge=lfs -text
 
-# SHAP and model output plots
-outputs/figures/** filter=lfs diff=lfs merge=lfs -text
-figures/** filter=lfs diff=lfs merge=lfs -text
+# Source code — ensure GitHub Linguist measures the analysis, not the HTML
+*.py linguist-detectable=true
+*.R  linguist-detectable=true linguist-language=R
+*.sh linguist-detectable=true linguist-language=Shell
 
-# Poster export
-poster/*.png filter=lfs diff=lfs merge=lfs -text
-poster/*.pdf filter=lfs diff=lfs merge=lfs -text
+# Self-contained dashboards/posters are GENERATED artefacts (regular files, NOT LFS so raw
+# download/preview links work) — excluded from the repository language statistics
+dashboard/**        linguist-generated=true
+poster/**           linguist-generated=true
+outputs/**/*.html   linguist-generated=true
+**/*Dashboard*.html linguist-generated=true
+**/*Poster*.html    linguist-generated=true
 
-# Dashboard HTML (if large)
-dashboard/*.html filter=lfs diff=lfs merge=lfs -text
-
-# Line endings — normalise across OS
-*.py  text eol=lf
-*.R   text eol=lf
-*.md  text eol=lf
-*.yml text eol=lf
-*.txt text eol=lf
-*.csv text eol=lf
-*.cff text eol=lf
+# Data files are not a programming language
+*.csv     linguist-detectable=false
+*.json    linguist-detectable=false
+*.geojson linguist-detectable=false
