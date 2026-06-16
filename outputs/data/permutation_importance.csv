@@ -1,0 +1,15 @@
+feature,mean_importance,std_importance
+working_age_prop,0.3201787994891443,0.02599880288184371
+female_pop_prop,0.1532567049808429,0.013814372702927149
+no_insurance_women,0.05683269476372925,0.00862896343888063
+abr,0.02886334610472542,0.007385354939872759
+wife_beating_justified,0.0012771392081737016,0.0018061475892376846
+modern_cpr,0.0010217113665389576,0.001961978479659929
+women_anemia,0.0,0.0
+women_literacy,0.0,0.0
+women_edu_secondary,0.0,0.0
+decision_autonomy,0.0,0.0
+ipv_12months,0.0,0.0
+unmet_need_fp,0.0,0.0
+demand_fp_satisfied,0.0,0.0
+tfr,0.0,0.0

@@ -1,0 +1,261 @@
+district_geojson,district_ms,match_method
+ADENTA MUNICIPAL,Adentan Municipal,manual
+LEDZOKUKU MUNICIPAL,Ledzokuku Municipal,title_case
+CHEREPONI,Chereponi,title_case
+WA EAST,Wa East,title_case
+WA MUNICIPAL,Wa Municipal,title_case
+SABOBA,Saboba,title_case
+JIRAPA,Jirapa Municipal,manual
+GUSHEGU,Gushegu Municipal,manual
+SISSALA WEST,Sissala West,title_case
+NANUMBA NORTH,Nanumba North Municipal,manual
+LAMBUSSIE-KARNI,Lambussie Karni,manual
+BOLGATANGA MUNICIPAL,Bolgatanga Municipal,title_case
+NANUMBA SOUTH,Nanumba South,title_case
+WENCHI MUNICIPAL,Wenchi Municipal,title_case
+BONGO,Bongo,title_case
+TANO SOUTH MUNICIPAL,Tano South Municipal,title_case
+KASENA NANKANA WEST,Kasena Nankana West,title_case
+WA WEST,Wa West,title_case
+SUNYANI MUNICIPAL,Sunyani Municipal,title_case
+SAWLA-TUNA-KALBA,Sawla Tuna Kalba,manual
+ASANTE AKIM SOUTH,Asante Akim South Municipal,manual
+SISSALA EAST,Sissala East Municipal,manual
+ADA EAST,Ada East,title_case
+SHAI OSUDOKU,Shai-Osudoku,manual
+KASENA NANKANA EAST,Kasena Nankana Municipal,manual
+ADA WEST,Ada West,title_case
+BUNKPURUGU NAKPANDURI,Bunkpurugu Nakpanduri,title_case
+GARU,Garu,title_case
+NINGO/PRAMPRAM,Ningo-Prampram,manual
+EAST MAMPRUSI,East Mamprusi Municipal,manual
+LA DADE-KOTOPON,La Dade-Kotopon Municipal,manual
+BAWKU WEST,Bawku West,title_case
+AOWIN,Aowin Municipal,manual
+DORMAA EAST,Dormaa East,title_case
+SUAMAN,Suaman,title_case
+BEREKUM EAST MUNICIPAL,Berekum East Municipal,title_case
+BIA EAST,Bia East,title_case
+JAMAN SOUTH MUNICIPAL,Jaman South,manual
+BIA WEST,Bia West,title_case
+SUNYANI WEST,Sunyani West Municipal,manual
+ASUNAFO NORTH MUNICIPAL,Asunafo North Municipal,title_case
+BODI,Bodi,title_case
+JUABOSO,Juaboso,title_case
+NKORANZA NORTH,Nkoranza North,title_case
+KINTAMPO SOUTH,Kintampo South,title_case
+SHAMA,Shama,title_case
+TANO NORTH MUNICIPAL,Tano North Municipal,title_case
+WASSA EAST,Wassa East,title_case
+KETU NORTH,Ketu North Municipal,manual
+MPOHOR,Mpohor,title_case
+WASSA AMENFI WEST,Wassa Amenfi West Municipal,manual
+KETU SOUTH,Ketu South Municipal,manual
+WASSA AMENFI CENTRAL,Wassa Amenfi Central,title_case
+KETA MUNICIPAL,Keta Municipal,title_case
+KADJEBI,Kadjebi,title_case
+MFANTSEMAN MUNICIPAL,Mfantsiman Municipal,manual
+SOUTH TONGU,South Tongu,title_case
+EKUMFI,Ekumfi,title_case
+TWIFO HEMANG LOWER DENKYIRA,Twifo Heman Lower Denkyira,manual
+JASIKAN,Jasikan Municipal,manual
+TWIFO ATTI-MORKWA,Twifo Ati Morkwa,manual
+KRACHI EAST MUNICIPAL,Krachi East Municipal,title_case
+AWUTU SENYA,Awutu Senya West,manual
+NKWANTA SOUTH MUNICIPAL,Nkwanta South Municipal,title_case
+AWUTU SENYA EAST,Awutu Senya East Municipal,manual
+AFIGYA KWABRE SOUTH,Afigya Kwabre South,title_case
+LA-NKWANTANANG-MADINA,La Nkwantanang Madina Municipal,manual
+ATWIMA KWANWOMA,Atwima Kwanwoma,title_case
+SEKYERE SOUTH,Sekyere South,title_case
+GA EAST,Ga East Municipal,manual
+AYAWASO WEST,Ayawaso West Municipal,manual
+SEKYERE EAST,Sekyere East,title_case
+GA SOUTH MUNICIPAL,Ga South Municipal,title_case
+GA WEST MUNICIPAL,Ga West Municipal,title_case
+SEKYERE CENTRAL,Sekyere Central,title_case
+GA CENTRAL MUNICIPAL,Ga Central Municipal,title_case
+OFFINSO NORTH,Offinso North,title_case
+KRACHI WEST,Krachi West Municipal,manual
+OFFINSO MUNICIPAL,Offinso Municipal,title_case
+OBUASI MUNICIPAL,Obuasi Municipal,title_case
+KRACHI NCHUMURU,Krachi Nchumuru,title_case
+KWABRE EAST,Kwabre East,title_case
+AGOTIME ZIOPE,Agortime-Ziope,manual
+ADAKLU,Adaklu,title_case
+EJURA-SEKYEDUMASE,Ejura Sekyedumase Municipal,manual
+ATWIMA NWABIAGYA SOUTH,Atwima Nwabiagya South Municipal,manual
+AKATSI SOUTH,Akatsi South Municipal,manual
+ATWIMA MPONUA,Atwima Mponua,title_case
+AKATSI NORTH,Akatsi North,title_case
+HO MUNICIPAL,Ho Municipal,title_case
+ADANSI SOUTH,Adansi South,title_case
+HOHOE MUNICIPAL,Hohoe Municipal,title_case
+ADANSI ASOKWA,Adansi Asokwa,title_case
+HO WEST,Ho West,title_case
+BOSOME FREHO,Bosome Freho,title_case
+AFADZATO SOUTH,Afadzato South,title_case
+AHAFO ANO SOUTH EAST,Ahafo Ano South East,title_case
+NORTH DAYI,North Dayi,title_case
+BEKWAI MUNICIPAL,Bekwai Municipal,title_case
+KPANDO MUNICIPAL,Kpando Municipal,title_case
+BOSOMTWE,Bosomtwi,manual
+NORTH TONGU,North Tongu,title_case
+CENTRAL TONGU,Central Tongu,title_case
+MAMPONG MUNICIPAL,Mampong Municipal,title_case
+AJUMAKO-ENYAN-ESSIAM,Ajumako Enyan Essiam,manual
+GOMOA WEST,Gomoa West,title_case
+AGONA WEST MUNICIPAL,Agona West Municipal,title_case
+AGONA EAST,Agona East,title_case
+ASSIN NORTH,Assin North,title_case
+ASSIN SOUTH,Assin South,title_case
+ASIKUMA-ODOBEN-BRAKWA,Asikuma Odoben Brakwa,manual
+EFFUTU MUNICIPAL,Effutu Municipal,title_case
+GOMOA EAST,Gomoa East,title_case
+ABURA-ASEBU-KWAMANKESE,Abura Asebu Kwamankese,manual
+JOMORO,Jomoro Municipal,manual
+ELLEMBELLE,Ellembelle,title_case
+DORMAA MUNICIPAL,Dormaa Central Municipal,manual
+DORMAA WEST,Dormaa West,title_case
+NADOWLI-KALEO,Nadowli Kaleo,manual
+PRESTEA/HUNI VALLEY,Prestea/Huni Valley Municipal,manual
+AHANTA WEST MUNICIPAL,Ahanta West Municipal,title_case
+DAFFIAMA BUSSIE ISSA,Daffiama Bussie Issa,title_case
+NZEMA EAST,Nzema East Municipal,manual
+LAWRA,Lawra Municipal,manual
+NANDOM,Nandom,title_case
+TARKWA NSUAEM,Tarkwa-Nsuaem Municipal,manual
+TALENSI,Talensi,title_case
+SEFWI AKONTOMBRA,Sefwi Akontombra,title_case
+EFFIA KWESIMINTSIM MUNICIPAL,Effia Kwesimintsim Municipal,title_case
+NABDAM,Nabdam,title_case
+BUILSA SOUTH,Builsa South,title_case
+BUILSA NORTH,Builsa North Municipal,manual
+BINDURI,Binduri,title_case
+PUSIGA,Pusiga,title_case
+BAWKU MUNICIPAL,Bawku Municipal,title_case
+NORTH GONJA,North Gonja,title_case
+WEST GONJA,West Gonja,title_case
+MION,Mion,title_case
+YENDI MUNICIPAL,Yendi Municipal,title_case
+TOLON,Tolon,title_case
+KUMBUNGU,Kumbungu,title_case
+WEST MAMPRUSI MUNICIPAL,West Mamprusi Municipal,title_case
+MAMPRUGU MOAGDURI,Mamprugu Moagduri,title_case
+ZABZUGU,Zabzugu,title_case
+TATALE SANGULI,Tatale Sanguli,title_case
+SENE EAST,Sene East,title_case
+BIBIANI-ANHWIASO-BEKWAI MUNICIPAL,Bibiani Anhwiaso Bekwai Municipal,manual
+SENE WEST,Sene West,title_case
+UPPER DENKYIRA EAST MUNICIPAL,Upper Denkyira East Municipal,title_case
+ASUTIFI NORTH,Asutifi North,title_case
+AHAFO ANO NORTH,Ahafo Ano North Municipal,manual
+AMANSIE CENTRAL,Amansie Central,title_case
+AMANSIE WEST,Amansie West,title_case
+ASUTIFI SOUTH,Asutifi South,title_case
+TECHIMAN MUNICIPAL,Techiman Municipal,title_case
+UPPER DENKYIRA WEST,Upper Denkyira West,title_case
+TECHIMAN NORTH,Techiman North,title_case
+CAPE COAST METROPOLITAN,Cape Coast Metropolitan Area (CCMA)-Cape Coast South & Cape Coast North,manual
+KOMENDA-EDINA-EGUAFO-ABIREM MUNICIPAL,Komenda Edina Eguafo Abirem Municipal,manual
+BANDA,Banda,title_case
+SEFWI-WIAWSO,Sefwi Wiawso Municipal,manual
+JAMAN NORTH,Jaman North,title_case
+ASUNAFO SOUTH,Asunafo South,title_case
+TAIN,Tain,title_case
+NKORANZA SOUTH,Nkoranza South Municipal,manual
+SEKYERE KUMAWU,Sekyere Kumawu,title_case
+BOLE,Bole,title_case
+SEKYERE AFRAM PLAINS NORTH,Sekyere Afram Plains,manual
+ASANTE AKIM NORTH,Asante Akim North Municipal,manual
+ASANTE AKIM CENTRAL MUNICIPAL,Asante Akim Central Municipal,title_case
+KINTAMPO NORTH MUNICIPAL,Kintampo North Municipal,title_case
+ASOKORE MAMPONG MUNICIPAL,Asokore Mampong Municipal,title_case
+ATEBUBU AMANTIN,Atebubu Amantin Municipal,manual
+KWADASO MUNICIPAL,Kwadaso Municipal,title_case
+KPANDAI,Kpandai,title_case
+EJISU MUNICIPAL,Ejisu Municipal,title_case
+NKWANTA NORTH,Nkwanta North (Kpassa),manual
+BIAKOYE,Biakoye,title_case
+WASSA AMENFI EAST,Wassa Amenfi East Municipal,manual
+CENTRAL GONJA,Central Gonja,title_case
+TEMA WEST MUNICIPAL,Tema West Municipal,title_case
+ASHAIMAN MUNICIPAL,Ashaiman Municipal,title_case
+PRU EAST,Pru East,title_case
+KPONE KATAMANSO,Kpone Katamanso Municipal,manual
+SAVELUGU,Savelugu Municipal,manual
+TAMALE METROPOLITAN,Tamale Metropolitan Area (TMA)-Tamale Central & Tamale South,manual
+SAGNERIGU,Sagnarigu Municipal,manual
+KARAGA,Karaga,title_case
+NORTH EAST GONJA,North East Gonja,title_case
+SOUTH DAYI,South Dayi,title_case
+TEMPANE,Tempane,title_case
+BOLGA  EAST,Bolgatanga East,manual
+YUNYOO-NASUAN,Yunyoo Nasuan,manual
+NANTON,Nanton,title_case
+ASSIN FOSU,Assin Central Municipal,manual
+GOMOA CENTRAL,Gomoa Central,title_case
+PRU WEST,Pru West,title_case
+BEREKUM WEST,Berekum West,title_case
+AHAFO ANO SOUTH WEST,Ahafo Ano South West,title_case
+AMANSIE SOUTH,Amansie South,title_case
+ATWIMA NWABIAGYA NORTH,Atwima Nwabiagya North,title_case
+ADANSI AKROFUOM,Akrofuom,manual
+ADANSI NORTH,Adansi North,title_case
+OBUASI EAST,Obuasi East,title_case
+AFIGYA KWABRE NORTH,Afigya Kwabre North,title_case
+KUMASI METROPOLITAN,"Kumasi Metropolitan Area (KMA)-Bantama, Manhyia North, Manhyia South, Nhyiaeso, & Subin",manual
+OFORIKROM MUNICIPAL,Oforikrom Municipal,title_case
+ASOKWA  MUNICIPAL,Asokwa Municipal,manual
+OLD TAFO MUNICIPAL,Old Tafo Municipal,title_case
+SUAME MUNICIPAL,Suame Municipal,title_case
+JUABEN MUNICIPAL,Juaben Municipal,title_case
+ABLEKUMA CENTRAL MUNICIPAL,Ablekuma Central Municipal,title_case
+KORLE KLOTTEY MUNICIPAL,Korle Klottey Municipal,title_case
+ABLEKUMA NORTH MUNICIPAL,Ablekuma North Municipal,title_case
+AYAWASO NORTH MUNICIPAL,Ayawaso North Municipal,title_case
+AYAWASO EAST MUNICIPAL,Ayawaso East Municipal,title_case
+OKAIKWEI NORTH MUNICIPAL,Okaikoi North Municipal,manual
+GA NORTH MUNICIPAL,Ga North Municipal,title_case
+WEIJA GBAWE MUNICIPAL,Weija Gbawe Municipal,title_case
+KROWOR MUNICIPAL,Krowor Municipal,title_case
+TEMA METROPOLITAN,Tema Metropolitan Area (TMA)-Tema Central & Tema East,manual
+EAST GONJA MUNICIPAL,East Gonja Municipal,title_case
+ABLEKUMA WEST MUNICIPAL,Ablekuma West Municipal,title_case
+AYAWASO CENTRAL MUNICIPAL,Ayawaso Central Municipal,title_case
+ACCRA METROPOLIS,"Accra Metropolitan Area (AMA)-Ablekuma South, Ashiedu Keteke & Okaikoi South",manual
+ANLOGA,Anloga,title_case
+SEKONDI TAKORADI METROPOLIS,"Sekondi Takoradi Metropolitan Area (STMA)-Takoradi, Sekondi & Essikado-Ketan",manual
+KWAHU SOUTH,Kwahu South Municipal,manual
+ASENE AKROSO MANSO,Asene Manso Akroso,manual
+UPPER MANYA,Upper Manya Krobo,manual
+ACHIASE,Achiase,title_case
+OKERE,Okere,title_case
+YILO KROBO,Yilo Krobo Municipal,manual
+ATIWA WEST,Atiwa West,title_case
+NEW JUABEN NORTH MUNICIPAL,New Juaben North Municipal,title_case
+FANTEAKWA NORTH,Fanteakwa North,title_case
+BIRIM NORTH,Birim North,title_case
+ASUOGYAMAN,Asuogyaman,title_case
+KWAHU EAST,Kwahu East,title_case
+KWAHU WEST,Kwahu West Municipal,manual
+LOWER MANYA,Lower Manya Krobo Municipal,manual
+NSAWAM ADOAGYIRI,Nsawam Adoagyiri Municipal,manual
+AKWAPEM SOUTH,Akwapim South Municipal,manual
+DENKYEMBOUR,Denkyembuor,manual
+KWAEBIBIREM,Kwaebibirem Municipal,manual
+KWAHU AFRAM PLAINS SOUTH,Kwahu Afram Plains South,title_case
+KWAHU AFRAM PLAINS NORTH,Kwahu Afram Plains North,title_case
+SUHUM MUNICIPAL,Suhum Municipal,title_case
+AYENSUANO,Ayensuano,title_case
+ABUAKWA SOUTH,Abuakwa South Municipal,manual
+UPPER WEST AKIM,Upper West Akim,title_case
+WEST AKIM,West Akim Municipal,manual
+AKYEM MANSA,Akyemansa,manual
+ATIWA EAST,Atiwa East,title_case
+NEW JUABEN SOUTH MUNICIPAL,New Juaben South Municipal,title_case
+BIRIM SOUTH,Birim South,title_case
+ABUAKWA NORTH,Abuakwa North Municipal,manual
+AKWAPEM NORTH,Akwapim North Municipal,manual
+FANTEAKWA SOUTH,Fanteakwa South,title_case
+BIRIM CENTRAL MUNICIPAL,Birim Central Municipal,title_case

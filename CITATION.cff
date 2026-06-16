@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite as below."
+type: software
+title: "Spatial Inequities in Maternal and Reproductive Health Outcomes and ML Risk Stratification Across 261 Districts of Ghana"
+abstract: >
+  A 261-district ecological cross-sectional study examining spatial clustering of
+  maternal and reproductive health outcomes in Ghana using Global Moran's I, LISA,
+  Bivariate LISA, Getis-Ord Gi*, GWR, and XGBoost with SHAP interpretability.
+  Data sources: DHIMS2 2022, Ghana DHS 2022, GSS Census 2021, NHIA 2022.
+authors:
+  - family-names: Ghanem
+    given-names: Valentine Golden
+    orcid: "https://orcid.org/0009-0002-8332-0220"
+    affiliation: "Ghana COCOBOD Cocoa Clinic, Accra, Ghana"
+    email: valentineghanem@gmail.com
+repository-code: "https://github.com/valentineghanem-bit/maternal-reproductive-health-ghana-261-districts"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-09"
+keywords:
+  - maternal health
+  - reproductive health
+  - spatial epidemiology
+  - Ghana
+  - LISA
+  - geographically weighted regression
+  - XGBoost
+  - SHAP
+  - public health
+  - health inequities
+  - district-level analysis
+references:
+  - type: data
+    title: "Ghana District Health Information Management System (DHIMS2)"
+    year: 2022
+    institution:
+      name: "Ghana Health Service"
+      city: "Accra"
+      country: "GH"
+  - type: data
+    title: "Ghana Demographic and Health Survey 2022 (FR387)"
+    year: 2023
+    institution:
+      name: "Ghana Statistical Service"
+      city: "Accra"
+      country: "GH"
+  - type: data
+    title: "Ghana Population and Housing Census 2021"
+    year: 2022
+    institution:
+      name: "Ghana Statistical Service"
+      city: "Accra"
+      country: "GH"
+  - type: data
+    title: "National Health Insurance Authority Annual Report 2022"
+    year: 2022
+    institution:
+      name: "National Health Insurance Authority"
+      city: "Accra"
+      country: "GH"

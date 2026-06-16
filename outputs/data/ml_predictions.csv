@@ -1,0 +1,262 @@
+district,true_risk,xgb_predicted_risk
+Asunafo North Municipal,MODERATE,LOW
+Asunafo South,MODERATE,MODERATE
+Asutifi North,MODERATE,HIGH
+Asutifi South,MODERATE,MODERATE
+Tano North Municipal,MODERATE,LOW
+Tano South Municipal,MODERATE,MODERATE
+Adansi Asokwa,MODERATE,LOW
+Adansi North,LOW,LOW
+Adansi South,MODERATE,LOW
+Afigya Kwabre North,MODERATE,HIGH
+Afigya Kwabre South,LOW,MODERATE
+Ahafo Ano North Municipal,MODERATE,MODERATE
+Ahafo Ano South East,MODERATE,HIGH
+Ahafo Ano South West,MODERATE,MODERATE
+Akrofuom,MODERATE,HIGH
+Amansie Central,MODERATE,MODERATE
+Amansie South,MODERATE,HIGH
+Amansie West,MODERATE,MODERATE
+Asante Akim Central Municipal,LOW,LOW
+Asante Akim North Municipal,MODERATE,MODERATE
+Asante Akim South Municipal,MODERATE,MODERATE
+Asokore Mampong Municipal,LOW,LOW
+Asokwa Municipal,LOW,LOW
+Atwima Kwanwoma,LOW,LOW
+Atwima Mponua,MODERATE,MODERATE
+Atwima Nwabiagya North,LOW,LOW
+Atwima Nwabiagya South Municipal,LOW,LOW
+Bekwai Municipal,LOW,LOW
+Bosome Freho,MODERATE,HIGH
+Bosomtwi,LOW,LOW
+Ejisu Municipal,LOW,LOW
+Ejura Sekyedumase Municipal,MODERATE,HIGH
+Juaben Municipal,LOW,MODERATE
+"Kumasi Metropolitan Area (KMA)-Bantama, Manhyia North, Manhyia South, Nhyiaeso, & Subin",LOW,LOW
+Kwabre East,LOW,LOW
+Kwadaso Municipal,LOW,LOW
+Mampong Municipal,LOW,LOW
+Obuasi East,LOW,LOW
+Obuasi Municipal,LOW,LOW
+Offinso Municipal,MODERATE,MODERATE
+Offinso North,MODERATE,MODERATE
+Oforikrom Municipal,LOW,MODERATE
+Old Tafo Municipal,LOW,LOW
+Sekyere Afram Plains,HIGH,HIGH
+Sekyere Central,MODERATE,HIGH
+Sekyere East,LOW,MODERATE
+Sekyere Kumawu,MODERATE,MODERATE
+Sekyere South,LOW,MODERATE
+Suame Municipal,LOW,LOW
+Banda,MODERATE,MODERATE
+Berekum East Municipal,LOW,LOW
+Berekum West,LOW,LOW
+Dormaa Central Municipal,LOW,LOW
+Dormaa East,LOW,MODERATE
+Dormaa West,MODERATE,MODERATE
+Jaman North,LOW,MODERATE
+Jaman South,LOW,LOW
+Sunyani Municipal,LOW,LOW
+Sunyani West Municipal,LOW,LOW
+Tain,MODERATE,MODERATE
+Wenchi Municipal,MODERATE,LOW
+Atebubu Amantin Municipal,HIGH,HIGH
+Kintampo North Municipal,HIGH,HIGH
+Kintampo South,MODERATE,HIGH
+Nkoranza North,MODERATE,HIGH
+Nkoranza South Municipal,MODERATE,HIGH
+Pru East,HIGH,HIGH
+Pru West,HIGH,HIGH
+Sene East,HIGH,HIGH
+Sene West,HIGH,HIGH
+Techiman Municipal,MODERATE,LOW
+Techiman North,MODERATE,HIGH
+Abura Asebu Kwamankese,HIGH,MODERATE
+Agona East,HIGH,LOW
+Agona West Municipal,HIGH,LOW
+Ajumako Enyan Essiam,HIGH,MODERATE
+Asikuma Odoben Brakwa,HIGH,MODERATE
+Assin Central Municipal,MODERATE,LOW
+Assin North,HIGH,MODERATE
+Assin South,HIGH,MODERATE
+Awutu Senya West,HIGH,MODERATE
+Awutu Senya East Municipal,MODERATE,LOW
+Cape Coast Metropolitan Area (CCMA)-Cape Coast South & Cape Coast North,MODERATE,LOW
+Effutu Municipal,MODERATE,LOW
+Ekumfi,HIGH,HIGH
+Gomoa Central,HIGH,MODERATE
+Gomoa East,HIGH,MODERATE
+Gomoa West,HIGH,HIGH
+Komenda Edina Eguafo Abirem Municipal,HIGH,MODERATE
+Mfantsiman Municipal,HIGH,MODERATE
+Twifo Ati Morkwa,HIGH,MODERATE
+Twifo Heman Lower Denkyira,HIGH,MODERATE
+Upper Denkyira East Municipal,HIGH,MODERATE
+Upper Denkyira West,HIGH,MODERATE
+Abuakwa North Municipal,LOW,LOW
+Abuakwa South Municipal,LOW,LOW
+Achiase,MODERATE,MODERATE
+Akwapim North Municipal,LOW,LOW
+Akwapim South Municipal,LOW,LOW
+Akyemansa,LOW,MODERATE
+Asene Manso Akroso,MODERATE,MODERATE
+Asuogyaman,LOW,LOW
+Atiwa East,LOW,MODERATE
+Atiwa West,LOW,MODERATE
+Ayensuano,MODERATE,MODERATE
+Birim Central Municipal,LOW,LOW
+Birim North,LOW,MODERATE
+Birim South,LOW,MODERATE
+Denkyembuor,LOW,LOW
+Fanteakwa North,MODERATE,MODERATE
+Fanteakwa South,LOW,MODERATE
+Kwaebibirem Municipal,LOW,MODERATE
+Kwahu Afram Plains North,HIGH,MODERATE
+Kwahu Afram Plains South,MODERATE,MODERATE
+Kwahu East,MODERATE,MODERATE
+Kwahu South Municipal,MODERATE,MODERATE
+Kwahu West Municipal,LOW,MODERATE
+Lower Manya Krobo Municipal,LOW,LOW
+New Juaben North Municipal,LOW,LOW
+New Juaben South Municipal,LOW,LOW
+Nsawam Adoagyiri Municipal,LOW,LOW
+Okere,MODERATE,LOW
+Suhum Municipal,LOW,LOW
+Upper Manya Krobo,MODERATE,MODERATE
+Upper West Akim,MODERATE,MODERATE
+West Akim Municipal,LOW,LOW
+Yilo Krobo Municipal,LOW,LOW
+Ablekuma Central Municipal,LOW,LOW
+Ablekuma North Municipal,LOW,LOW
+Ablekuma West Municipal,LOW,LOW
+"Accra Metropolitan Area (AMA)-Ablekuma South, Ashiedu Keteke & Okaikoi South",MODERATE,LOW
+Ada East,MODERATE,HIGH
+Ada West,HIGH,HIGH
+Adentan Municipal,LOW,LOW
+Ashaiman Municipal,LOW,LOW
+Ayawaso Central Municipal,MODERATE,LOW
+Ayawaso East Municipal,MODERATE,LOW
+Ayawaso North Municipal,LOW,LOW
+Ayawaso West Municipal,LOW,MODERATE
+Ga Central Municipal,LOW,LOW
+Ga East Municipal,LOW,LOW
+Ga North Municipal,LOW,LOW
+Ga South Municipal,MODERATE,LOW
+Ga West Municipal,LOW,LOW
+Korle Klottey Municipal,LOW,LOW
+Kpone Katamanso Municipal,LOW,LOW
+Krowor Municipal,LOW,LOW
+La Dade-Kotopon Municipal,LOW,LOW
+La Nkwantanang Madina Municipal,LOW,LOW
+Ledzokuku Municipal,LOW,LOW
+Ningo-Prampram,MODERATE,LOW
+Okaikoi North Municipal,LOW,LOW
+Shai-Osudoku,MODERATE,HIGH
+Tema Metropolitan Area (TMA)-Tema Central & Tema East,MODERATE,LOW
+Tema West Municipal,LOW,LOW
+Weija Gbawe Municipal,LOW,LOW
+Bunkpurugu Nakpanduri,HIGH,HIGH
+Chereponi,HIGH,HIGH
+East Mamprusi Municipal,HIGH,HIGH
+Mamprugu Moagduri,HIGH,HIGH
+West Mamprusi Municipal,HIGH,HIGH
+Yunyoo Nasuan,HIGH,HIGH
+Gushegu Municipal,HIGH,HIGH
+Karaga,HIGH,HIGH
+Kpandai,HIGH,HIGH
+Kumbungu,HIGH,HIGH
+Mion,HIGH,HIGH
+Nanton,HIGH,HIGH
+Nanumba North Municipal,HIGH,HIGH
+Nanumba South,HIGH,HIGH
+Saboba,HIGH,HIGH
+Sagnarigu Municipal,HIGH,HIGH
+Savelugu Municipal,HIGH,HIGH
+Tamale Metropolitan Area (TMA)-Tamale Central & Tamale South,HIGH,HIGH
+Tatale Sanguli,HIGH,HIGH
+Tolon,HIGH,HIGH
+Yendi Municipal,HIGH,HIGH
+Zabzugu,HIGH,HIGH
+Biakoye,HIGH,HIGH
+Guan,HIGH,HIGH
+Jasikan Municipal,HIGH,HIGH
+Kadjebi,HIGH,HIGH
+Krachi East Municipal,HIGH,HIGH
+Krachi Nchumuru,HIGH,HIGH
+Krachi West Municipal,HIGH,HIGH
+Nkwanta North (Kpassa),HIGH,HIGH
+Nkwanta South Municipal,HIGH,HIGH
+Bole,HIGH,HIGH
+Central Gonja,HIGH,HIGH
+East Gonja Municipal,HIGH,HIGH
+North East Gonja,HIGH,HIGH
+North Gonja,HIGH,HIGH
+Sawla Tuna Kalba,HIGH,HIGH
+West Gonja,HIGH,HIGH
+Bawku Municipal,LOW,HIGH
+Bawku West,MODERATE,HIGH
+Binduri,MODERATE,HIGH
+Bolgatanga East,LOW,HIGH
+Bolgatanga Municipal,LOW,HIGH
+Bongo,MODERATE,HIGH
+Builsa North Municipal,LOW,HIGH
+Builsa South,MODERATE,HIGH
+Garu,MODERATE,HIGH
+Kasena Nankana Municipal,LOW,HIGH
+Kasena Nankana West,LOW,HIGH
+Nabdam,MODERATE,HIGH
+Pusiga,LOW,HIGH
+Talensi,MODERATE,HIGH
+Tempane,MODERATE,HIGH
+Daffiama Bussie Issa,HIGH,MODERATE
+Jirapa Municipal,MODERATE,MODERATE
+Lambussie Karni,MODERATE,MODERATE
+Lawra Municipal,MODERATE,LOW
+Nadowli Kaleo,MODERATE,MODERATE
+Nandom,MODERATE,LOW
+Sissala East Municipal,MODERATE,MODERATE
+Sissala West,MODERATE,MODERATE
+Wa East,HIGH,MODERATE
+Wa Municipal,LOW,MODERATE
+Wa West,HIGH,MODERATE
+Adaklu,MODERATE,MODERATE
+Afadzato South,MODERATE,MODERATE
+Agortime-Ziope,MODERATE,MODERATE
+Akatsi North,HIGH,MODERATE
+Akatsi South Municipal,MODERATE,MODERATE
+Anloga,MODERATE,MODERATE
+Central Tongu,MODERATE,MODERATE
+Ho Municipal,LOW,LOW
+Ho West,MODERATE,MODERATE
+Hohoe Municipal,LOW,LOW
+Keta Municipal,MODERATE,LOW
+Ketu North Municipal,MODERATE,MODERATE
+Ketu South Municipal,MODERATE,MODERATE
+Kpando Municipal,LOW,LOW
+North Dayi,MODERATE,MODERATE
+North Tongu,MODERATE,MODERATE
+South Dayi,LOW,LOW
+South Tongu,MODERATE,MODERATE
+Ahanta West Municipal,HIGH,MODERATE
+Effia Kwesimintsim Municipal,HIGH,LOW
+Ellembelle,HIGH,LOW
+Jomoro Municipal,HIGH,LOW
+Mpohor,HIGH,MODERATE
+Nzema East Municipal,HIGH,MODERATE
+Prestea/Huni Valley Municipal,HIGH,MODERATE
+"Sekondi Takoradi Metropolitan Area (STMA)-Takoradi, Sekondi & Essikado-Ketan",HIGH,LOW
+Shama,HIGH,LOW
+Tarkwa-Nsuaem Municipal,HIGH,MODERATE
+Wassa Amenfi Central,HIGH,MODERATE
+Wassa Amenfi East Municipal,HIGH,MODERATE
+Wassa Amenfi West Municipal,HIGH,MODERATE
+Wassa East,HIGH,MODERATE
+Aowin Municipal,HIGH,MODERATE
+Bia East,HIGH,MODERATE
+Bia West,LOW,MODERATE
+Bibiani Anhwiaso Bekwai Municipal,LOW,MODERATE
+Bodi,HIGH,MODERATE
+Juaboso,MODERATE,MODERATE
+Sefwi Akontombra,MODERATE,MODERATE
+Sefwi Wiawso Municipal,MODERATE,LOW
+Suaman,HIGH,HIGH

@@ -1,0 +1,10 @@
+variable,iqr_outlier_n,zscore_outlier_n,note
+composite_maternal_index,23,0,review
+sba,32,0,review
+facility_delivery,32,0,review
+anc_skilled,0,0,ok
+pnc_coverage,0,0,ok
+tfr,6,6,review
+abr,24,6,review
+poverty_rate,1,1,review
+uninsured_rate,1,1,review

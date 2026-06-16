@@ -1,0 +1,3 @@
+model,r_squared,adj_r_squared,bandwidth,AICc,note
+Global OLS,0.898,0.8943,,,Residual MI=0.4623 p=0.0010 -> spatial model required
+"GWR (bisquare adaptive, Python)",0.9774,,50.0,1399.043,Local R^2 mean=0.8752; index-component predictors excluded (post-COMP-008); bw=50 neighbours

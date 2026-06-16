@@ -1,0 +1,3 @@
+variable,morans_I,E_I,z_score,p_value,weight_type,note
+composite_maternal_index,0.8437,-0.0038,21.3639,0.001,KNN_k4_KDTree_Euclidean,Phase 2 canonical value (GeoJSON polygon centroids)
+composite_maternal_index_OLS_residuals,0.4623,-0.0038,11.7142,0.001,KNN_k4_KDTree_Euclidean,Residual autocorrelation post-OLS (STAT-003)

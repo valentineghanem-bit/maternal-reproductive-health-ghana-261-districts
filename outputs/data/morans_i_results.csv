@@ -1,0 +1,2 @@
+variable,morans_I,E_I,Var_I,z_score,p_value,weight_type
+composite_maternal_index,0.8437,-0.0038,0.001574,21.3639,0.001,KNN_k4
