@@ -1,0 +1,24 @@
+# ── Tenet 20: manuscripts are NEVER committed to the repo ─────────────
+manuscript/
+*.docx
+*.tex
+*.pdf
+
+# ── Archived / superseded material — local only ──────────────────────
+_archive/
+
+# ── Local QA gate artefacts (badges are local gates, not deliverables) ─
+QA_PASSED_*.txt
+SYNC_REPORT*.txt
+sync-manifest*.json
+
+# ── Python / Jupyter caches ──────────────────────────────────────────
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ── OS / editor cruft ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+~$*
